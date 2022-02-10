@@ -551,7 +551,7 @@
         "type": "color"
       }
     },
-    "bg": {
+    "bgColor": {
       "light": {
         "value": "$neutral.cloud10",
         "description": "Light Background",
